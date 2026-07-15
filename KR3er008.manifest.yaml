@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er008/v1
 canonical_location: https://kanripo.org/bkk/KR3er008/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫林改錯
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er008_000.yaml, hash: 'sha256:026955e0495da2ee957fdf39d68ca323f58eaa1dc9253bd787dce49cb4a9f812'}
-  - {seq: 1, filename: KR3er008_001.yaml, hash: 'sha256:34c038161cebe50af217c3907d5f5bc53a7a502a6da1064dfba852b0248093c0'}
-  - {seq: 3, filename: KR3er008_003.yaml, hash: 'sha256:a787219a1ba003c60c7eaef8d04cd7e662f3c6991f219d3521cd3cc5470a21f8'}
+  - {seq: 0, filename: KR3er008_000.yaml, hash: 'sha256:0363df669cdead85cc1e32627fb937a2f84d5e65f68302c8b37afcdc16e6aaec'}
+  - {seq: 1, filename: KR3er008_001.yaml, hash: 'sha256:ac07ea69806eac806975039d769d7b3f792f7b3cd9e1851175f114a0ef54ad4a'}
+  - {seq: 3, filename: KR3er008_003.yaml, hash: 'sha256:9b6c3e27e1dfbc3d348f482b73d96ab8ab78a36e5f4333e8b0cb4ca16c511576'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er008_000.markers.yaml, hash: 'sha256:34171d906076277dac7b9d736b3d121dfac2a87e7c9359cead30956d0dca3aec'}
-  - {seq: 1, role: markers, filename: assets/KR3er008_001.markers.yaml, hash: 'sha256:f0bb16a1f09f9b967bbccad9e63ca8baf01292fdc6046d177fe09c44d1b14039'}
-  - {seq: 3, role: markers, filename: assets/KR3er008_003.markers.yaml, hash: 'sha256:b29d867be65a702fce273f0a7c97a98a2fdfa33408daa7624c3edea380aea094'}
+  - {seq: 0, role: markers, filename: assets/KR3er008_000.markers.yaml, hash: 'sha256:0a23ce3347d952adf46ffe733cc78db0482bf8a0c25f092b2dbc8290edf75aca'}
+  - {seq: 1, role: markers, filename: assets/KR3er008_001.markers.yaml, hash: 'sha256:c2247cc2fb47c069368c94e8dba6ebbc2ce8bff03645b9be7dde5046a3de6ef3'}
+  - {seq: 3, role: markers, filename: assets/KR3er008_003.markers.yaml, hash: 'sha256:29153df1fbc8bd9dd2ec04330ed8b9b5ae3d17fdb52991eed69935aced9b3d6b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1155,4 +1155,7 @@ table_of_contents:
   label: 辨方效經錯之源論血化為汗之誤
   type: section
   level: 2
-hash: sha256:f0da0d7e9165a23d952b0c963c1d0a0953417f32a3d34b2268635d44537c4059
+hash: sha256:df1bbd90013aca90865e6c0e1d0867c94582b355e3e6f2e38e54e617667d96fb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
