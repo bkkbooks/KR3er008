@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3er008_003-jc.yaml, hash: 'sha256:a787219a1ba003c60c7eaef8d04cd7e662f3c6991f219d3521cd3cc5470a21f8'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3er008_000-jc.markers.yaml, hash: 'sha256:c5c6854a7ddbfc37ad6c83f6c09bacbd1e2b2949f84743d18fb07b00416114b0'}
-  - {seq: 1, role: markers, filename: assets/KR3er008_001-jc.markers.yaml, hash: 'sha256:e94189c2f5b1c7023decce3b415e74a13fb28cef2ea947b6c43afb86c6e3f69e'}
-  - {seq: 3, role: markers, filename: assets/KR3er008_003-jc.markers.yaml, hash: 'sha256:4db3914bcfbdc820d9d2c3382b58955ffa60419415c2ba13088260c1d0bd5cc5'}
+  - {seq: 1, role: markers, filename: assets/KR3er008_001-jc.markers.yaml, hash: 'sha256:afc19de0b5deedf6ed893ab8768236acfb4e28c117871c1ba10e7dcd8dca97b3'}
+  - {seq: 3, role: markers, filename: assets/KR3er008_003-jc.markers.yaml, hash: 'sha256:53f1a623193afee4a637fc157f260bcfc38d9e9d21e6b323ca78d9851d3da1f5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1155,4 +1155,4 @@ table_of_contents:
   label: 辨方效經錯之源論血化為汗之誤
   type: section
   level: 2
-hash: sha256:0f6da3a3f88b14edbdf6c7236c9d9f30e1414b397f00c65dce92d8f9f77b108e
+hash: sha256:076e61c12bd54b9af6c3163caec11c2719f488d60bdd73c183498df8d73ea808
