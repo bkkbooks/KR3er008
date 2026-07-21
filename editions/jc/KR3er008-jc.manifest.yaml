@@ -17,11 +17,11 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3er008_000-jc.yaml, hash: 'sha256:026955e0495da2ee957fdf39d68ca323f58eaa1dc9253bd787dce49cb4a9f812'}
+  - {seq: 0, filename: KR3er008_000-jc.yaml, hash: 'sha256:3ee4edab72a500de10e876d2deb7ea1419597157ebce72ca96199dae21d11eee'}
   - {seq: 1, filename: KR3er008_001-jc.yaml, hash: 'sha256:34c038161cebe50af217c3907d5f5bc53a7a502a6da1064dfba852b0248093c0'}
   - {seq: 3, filename: KR3er008_003-jc.yaml, hash: 'sha256:a787219a1ba003c60c7eaef8d04cd7e662f3c6991f219d3521cd3cc5470a21f8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er008_000-jc.markers.yaml, hash: 'sha256:c5c6854a7ddbfc37ad6c83f6c09bacbd1e2b2949f84743d18fb07b00416114b0'}
+  - {seq: 0, role: markers, filename: assets/KR3er008_000-jc.markers.yaml, hash: 'sha256:e5c59c926f08d6afb2dfd8bb3764d6f82eece192ad178ad45ce4ec4a6a3016d9'}
   - {seq: 1, role: markers, filename: assets/KR3er008_001-jc.markers.yaml, hash: 'sha256:afc19de0b5deedf6ed893ab8768236acfb4e28c117871c1ba10e7dcd8dca97b3'}
   - {seq: 3, role: markers, filename: assets/KR3er008_003-jc.markers.yaml, hash: 'sha256:53f1a623193afee4a637fc157f260bcfc38d9e9d21e6b323ca78d9851d3da1f5'}
 table_of_contents:
@@ -29,7 +29,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er008_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 319
   label: 張序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er008_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 319
     - 691
   label: 劉序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er008_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 691
     - 1017
   label: 知非子序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er008_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 1017
     - 1199
   label: 自序
@@ -1155,4 +1155,4 @@ table_of_contents:
   label: 辨方效經錯之源論血化為汗之誤
   type: section
   level: 2
-hash: sha256:076e61c12bd54b9af6c3163caec11c2719f488d60bdd73c183498df8d73ea808
+hash: sha256:831312839ada935c8d3311cf0a9a39eb18687ebfa3a664db92ece277cb376f19

@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er008_000.yaml, hash: 'sha256:0363df669cdead85cc1e32627fb937a2f84d5e65f68302c8b37afcdc16e6aaec'}
+  - {seq: 0, filename: KR3er008_000.yaml, hash: 'sha256:b963fa0c438dc1421169e65b822d5c40fdcc3928577de6cbfa10b4a719c29c20'}
   - {seq: 1, filename: KR3er008_001.yaml, hash: 'sha256:ac07ea69806eac806975039d769d7b3f792f7b3cd9e1851175f114a0ef54ad4a'}
   - {seq: 3, filename: KR3er008_003.yaml, hash: 'sha256:9b6c3e27e1dfbc3d348f482b73d96ab8ab78a36e5f4333e8b0cb4ca16c511576'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er008_000.markers.yaml, hash: 'sha256:0a23ce3347d952adf46ffe733cc78db0482bf8a0c25f092b2dbc8290edf75aca'}
+  - {seq: 0, role: markers, filename: assets/KR3er008_000.markers.yaml, hash: 'sha256:8038fb31b4a0338f34c328f085ccf4a17e041361d74d1c00fb08b26d22eb3655'}
   - {seq: 1, role: markers, filename: assets/KR3er008_001.markers.yaml, hash: 'sha256:89fc5643c3609f38407d7d60142bb7969c09e5366d563348f02d66edd4ac59b4'}
   - {seq: 3, role: markers, filename: assets/KR3er008_003.markers.yaml, hash: 'sha256:7972ff815a0bd9f443d5d1091240f2f17e90a54b4c0f55b254af5d5a1eac9cf8'}
 table_of_contents:
@@ -29,7 +29,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er008_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 319
   label: 張序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er008_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 319
     - 691
   label: 劉序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er008_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 691
     - 1017
   label: 知非子序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er008_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 1017
     - 1199
   label: 自序
@@ -1155,7 +1155,7 @@ table_of_contents:
   label: 辨方效經錯之源論血化為汗之誤
   type: section
   level: 2
-hash: sha256:2f58ad40c526a2b81cc4c24fb551eac8325031669495dbfbc1ba540a787e1597
+hash: sha256:42fa2204f34a9c7f3c73d6e5efae7d93bdf90c5a3646866a3d02276b6354a924
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
